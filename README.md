@@ -1,5 +1,5 @@
 # LVS
-<p align="center">
+<p align="left">
   <a href="https://laravel.com">
     <img src="https://img.shields.io/badge/laravel-6.0-brightgreen.svg" alt="vue">
   </a>
